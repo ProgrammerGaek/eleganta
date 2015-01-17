@@ -1,0 +1,1238 @@
+
+/* MAX 1440px */
+
+@media only screen and (max-width: 1440px)
+{
+
+    /*  HOME
+        ###########################################################################
+    */
+
+    .carousel-caption h3
+    {
+        font-size: 4em;
+    }
+
+    /*
+        ###########################################################################
+        ###########################################################################
+    */
+
+}
+
+/* MAX 1170px */
+
+@media only screen and (max-width: 1170px)
+{
+
+    /*    .section-area > div
+        {
+            width: 100%;
+        }*/
+
+    /*  HOME
+        ###########################################################################
+    */
+
+    .carousel-caption
+    {
+        bottom: 12%;
+    }
+
+    .carousel-caption h3
+    {
+        font-size: 3em;
+    }
+
+    /* ------------------- */
+
+    .h-Highlight .c1
+    {
+        width: 26%;
+    }
+
+    .h-Highlight .c3
+    {
+        width: 26%;
+    }
+
+    .h-Highlight .c2
+    {
+        width: 46%;
+    }
+
+    .h-Highlight > div
+    {
+        background-position: center 200px;
+        background-size: 50% auto;
+    }
+
+    .h-Highlight .c1 article .icon
+    {
+        width: 53px;
+        height: 53px;
+        line-height: 53px;
+        font-size: 23px;
+    }
+
+    .h-Highlight .c3 article .icon
+    {
+        width: 53px;
+        height: 53px;
+        line-height: 53px;
+        font-size: 23px;
+    }
+
+    /*
+        ###########################################################################
+        ###########################################################################
+    */
+
+}
+
+/* MAX 1024px */
+
+@media only screen and (max-width: 1024px)
+{
+
+    /*  HOME
+        ###########################################################################
+    */
+
+    .carousel-caption
+    {
+        bottom: 10%;
+    }
+
+    .carousel-caption h3
+    {
+        font-size: 2.5em;
+    }
+
+    /* ------------------- */
+
+    .home-section-1 article a
+    {
+        width: 53px;
+        height: 53px;
+        line-height: 53px;
+        font-size: 23px;
+    }
+
+    /* ------------------- */
+
+    .h-Highlight article h3
+    {
+        font-size: 1em;
+        padding-top: 25px;
+    }
+
+
+    .footer .newsletter .inner-section {
+        max-width: 940px;
+    }
+
+    .footer .newsletter form{
+        width: 495px;
+    }
+
+    .footer .newsletter .email {
+        width: 358px;
+    }
+
+
+
+
+    /*
+        ###########################################################################
+        ###########################################################################
+    */
+
+}
+
+
+@media only screen and (max-width: 992px)
+{
+
+    .footer .copyright  .responsive-align-left {
+        text-align: center;
+    }
+
+    .footer .copyright  .responsive-align-right {
+        text-align: center;
+    }
+
+}
+
+
+/* MAX 960px */
+
+@media only screen and (max-width: 960px)
+{
+
+    /*  HOME
+        ###########################################################################
+    */
+
+    .carousel-caption h3
+    {
+        font-size: 2em;
+    }
+
+    .carousel-caption .read-more
+    {
+        padding: 12px 25px 12px 25px;
+        margin-top: 25px;
+
+    }
+
+    .carousel-indicators
+    {
+        display: none;
+    }
+
+    .carousel-caption .read-more { transition: none; }
+
+    .carousel-caption .read-more:hover { transition: none; }
+
+    /* ------------------- */
+
+    .home-section-1 article a { transition: none; }
+
+    .home-section-1 article:hover a { transition: none; }
+
+    .home-section-1 article:hover a i { transition: none; }
+
+    /* ------------------- */
+
+    .h-albums .b-gal article .art-img .mask { transition: none; }
+
+    .h-albums .b-gal article:hover .art-img .mask { transition: none; }
+
+    .h-albums .b-gal article .btns a { transition: none; }
+
+    .h-albums .b-gal article .btns a:hover { transition: none; }
+
+    /* ------------------- */
+
+    .h-Highlight .c1 article:hover .icon { transition: none; }
+
+    .h-Highlight .c1 article .icon { transition: none; }
+
+
+    /* ------------------- */
+
+    .h-kiev .texts h2
+    {
+        font-size: 2.8em;
+    }
+
+    /* ------------------- */
+
+    .h-contact > h2
+    {
+        font-size: 2.5em;
+    }
+
+    .h-contact .c1
+    {
+        width: 90%;
+        margin-left: 5%;
+        margin-right: 5%;
+    }
+
+    .h-contact .c2
+    {
+        width: 90%;
+        margin-left: 5%;
+        margin-right: 5%;
+    }
+
+    .h-contact .c1 h4 { transition: none; }
+
+    .h-contact .c1 h4 a { transition: none; }
+
+    .h-contact .c1 h4:hover { transition: none; }
+
+    .h-contact .c1 h4:hover a { transition: none; }
+
+    .h-contact .c2 .btn { transition: none; }
+
+    .h-contact .c2 .btn:hover { transition: none; }
+
+    /*
+        ###########################################################################
+        ###########################################################################
+    */
+
+
+    /*  about
+        ###########################################################################
+    */
+
+    .about .c1 .btn { transition: none; }
+
+    .about .c1 .btn:hover { transition: none; }
+
+    /*
+        ###########################################################################
+        ###########################################################################
+    */
+
+
+    /*  faq
+        ###########################################################################
+    */
+
+    .faq .c1 article { transition: none; }
+
+    .faq .c1 article:hover { transition: none; }
+
+    /*
+        ###########################################################################
+        ###########################################################################
+    */
+
+
+    /*  pricing
+        ###########################################################################
+    */
+
+    .pricing .g1 article h3 { transition: none; }
+
+    .pricing .g1 article:hover > div { transition: none; }
+
+    .pricing .g1 article:hover p { transition: none; }
+
+    .pricing .g1 article:hover p span { transition: none; }
+
+    .pricing .g1 article:hover h2 { transition: none; }
+
+    .pricing .g1 article:hover h3 { transition: none; }
+
+    .pricing .g1 article:hover button { transition: none; }
+
+    .pricing .g2 article h3 { transition: none; }
+
+    .pricing .g2 article:hover > div { transition: none; }
+
+    .pricing .g2 article:hover h3 { transition: none; }
+
+    .pricing .g2 article:hover button { transition: none; }
+
+    .pricing .g3 article h3 { transition: none; }
+
+    .pricing .g3 article h3 span { transition: none; }
+
+    .pricing .g3 article:hover > div { transition: none; }
+
+    .pricing .g3 article:hover p { transition: none; }
+
+    .pricing .g3 article:hover p span { transition: none; }
+
+    .pricing .g3 article:hover h3 { transition: none; }
+
+    .pricing .g3 article:hover h3 span { transition: none; }
+
+    .pricing .g3 article:hover h2 { transition: none; }
+
+    .pricing .g3 article:hover button { transition: none; }
+
+
+    /*
+        ###########################################################################
+        ###########################################################################
+    */
+
+
+    /*  login
+        ###########################################################################
+    */
+
+    .login button { transition: none; }
+
+    .login button:hover { transition: none; }
+
+    /*
+        ###########################################################################
+        ###########################################################################
+    */
+
+
+    /*  portfolio
+        ###########################################################################
+    */
+
+    .portfolio-menu a { transition: none; }
+
+    .portfolio-menu a:hover { transition: none; }
+
+    .portfolio article .mask { transition: none; }
+
+    .portfolio article .mask > div { transition: none; }
+
+    .portfolio article .mask .btn { transition: none; }
+
+    .portfolio article:hover .mask { transition: none; }
+
+    .portfolio article:hover .mask > div { transition: none; }
+
+    .portfolio article .btn:hover { transition: none; }
+
+    /*
+        ###########################################################################
+        ###########################################################################
+    */
+
+
+    /*  project
+        ###########################################################################
+    */
+
+    .project .project-img
+    {
+        width: 96%;
+        margin-left: 2%;
+        margin-right: 2%;
+    }
+
+    .project .project-info
+    {
+        float: left;
+        width: 96%;
+        margin-left: 2%;
+        margin-right: 2%;
+    }
+
+    .project .project-info h4 a { transition: none; }
+
+    .project .project-info h4:hover a { transition: none; }
+
+    /*
+        ###########################################################################
+        ###########################################################################
+    */
+
+
+    /*  blog-standard
+        ###########################################################################
+    */
+
+    .blog-standard .post .post-image .mask { transition: none; }
+
+    .blog-standard .post .post-image a { transition: none; }
+
+    .blog-standard .post .post-image:hover .mask { transition: none; }
+
+    .blog-standard .post .post-image:hover a { transition: none; }
+
+    .blog-standard .post .post-text .tags a { transition: none; }
+
+    .blog-standard .post .post-text .tags a:hover { transition: none; }
+
+    .blog-standard .post .post-text .read-more { transition: none; }
+
+    .blog-standard .post .post-text .read-more:hover { transition: none; }
+
+    .blog-standard .post-open .date a { transition: none; }
+
+    .blog-standard .post-open .date a:hover { transition: none; }
+
+    .blog-standard .post-nav a { transition: none; }
+
+    .blog-standard .post-nav a:hover { transition: none; }
+
+    .blog-standard .comments .btn { transition: none; }
+
+    .blog-standard .comments .btn:hover { transition: none; }
+
+    .blog-standard-2 article .art-img span { transition: none; }
+
+    .blog-standard-2 article .text { transition: none; }
+
+    .blog-standard-2 article a { transition: none; }
+
+    .blog-standard-2 article .tags a { transition: none; }
+
+    .blog-standard-2 article .tags a:hover { transition: none; }
+
+    .blog-standard-2 article:hover a { transition: none; }
+
+    .blog-standard-2 article:hover .text { transition: none; }
+
+    .blog-standard-2 article:hover .art-img span { transition: none; }
+
+    /*
+        ###########################################################################
+        ###########################################################################
+    */
+
+
+    /*  form-1
+        ###########################################################################
+    */
+
+    .form-1 .btn { transition: none; }
+
+    .form-1 .btn:hover { transition: none; }
+
+    .footer .section-newsletter {
+        float:none;
+    }
+
+    .footer .newsletter form {
+        float: none;
+        margin: 0 auto;
+    }
+
+    /*
+        ###########################################################################
+        ###########################################################################
+    */
+
+
+    /*  sidebar
+        ###########################################################################
+    */
+
+    .sidebar .cat a { transition: none; }
+
+    .sidebar ol li a:hover { transition: none; }
+
+    .sidebar .instagram .btn { transition: none; }
+
+    .sidebar .instagram .btn:hover { transition: none; }
+
+    /*
+        ###########################################################################
+        ###########################################################################
+    */
+
+
+    /*  isotope
+        ###########################################################################
+    */
+
+    .isotope,
+    .isotope .isotope-item { transition: none; }
+
+    .isotope { transition: none; }
+
+    .isotope .isotope-item { transition: none; }
+
+    /**** disabling Isotope CSS3 transitions ****/
+
+    .isotope.no-transition,
+    .isotope.no-transition .isotope-item,
+    .isotope .isotope-item.no-transition { transition: none; }
+
+    /*
+        ###########################################################################
+        ###########################################################################
+    */
+
+
+    /*  footer
+        ###########################################################################
+    */
+
+    .footer .buy .btn { transition: none; }
+
+    .footer .buy .btn:hover { transition: none; }
+
+    .footer .f-content .c1 .btn { transition: none; }
+
+    .footer .f-content .c1 .btn:hover { transition: none; }
+
+    .footer .f-content li a { transition: none; }
+
+    .footer .f-content li a:hover { transition: none; }
+
+    .footer .f-content ol .post { transition: none; }
+
+    .footer .f-content ol .post a { transition: none; }
+
+    .footer .f-content ol .post:hover { transition: none; }
+
+    .footer .f-content ol .post:hover a { transition: none; }
+
+    .footer .c1 h4 { transition: none; }
+
+    .footer .c1 h4 a { transition: none; }
+
+    .footer .c1 h4:hover { transition: none; }
+
+    .footer .c1 h4:hover a { transition: none; }
+
+    /*
+        ###########################################################################
+        ###########################################################################
+    */
+
+    .load-more { transition: none; }
+
+    .load-more:hover { transition: none; }
+
+
+}
+
+/* MAX 800px */
+
+@media only screen and (max-width: 800px)
+{
+
+    .pg-title h1
+    {
+        font-size: 2em;
+    }
+
+    /*  HEADER
+        ###########################################################################
+    */
+
+    .header-01 .c1
+    {
+        width: 100px;
+        padding-top: 16px;
+        padding-left: 5px;
+    }
+
+    .header-01 .c2 a
+    {
+        font-size: 0.9em;
+    }
+
+    .header-01 .nav-area .dropdown ul li a
+    {
+        font-size: 0.9em;
+    }
+
+    .header-01 .search-1
+    {
+        display: none;
+    }
+
+    .header-01 .search-2
+    {
+        display: none;
+    }
+
+    .header-01 .c2b
+    {
+        margin-top: 38px;
+    }
+
+    /*
+        ###########################################################################
+        ###########################################################################
+    */
+
+
+    /*  HOME
+        ###########################################################################
+    */
+
+
+    /* ------------------- */
+
+    /*    .home-section-1 article
+        {
+            width: 50%;
+        }
+    */
+    /* ------------------- */
+
+    .h-albums h2
+    {
+        font-size: 2em;
+    }
+
+    /* ------------------- */
+
+    .h-Highlight .c1
+    {
+        width: 40%;
+        margin-left: 5%;
+        margin-right: 5%;
+    }
+
+    .h-Highlight .c3
+    {
+        width: 40%;
+        margin-left: 5%;
+        margin-right: 5%;
+    }
+
+    .h-Highlight .c2
+    {
+        display: none;
+    }
+
+    .h-Highlight > div
+    {
+        background: none;
+    }
+
+    /* ------------------- */
+
+    .h-testimonials .arrows
+    {
+        text-align: center;
+        padding: 80px 0 80px 0;
+    }
+
+    .h-testimonials .texts h2
+    {
+        font-size: 1.8em;
+    }
+
+    .h-testimonials .test h3
+    {
+        font-size: 0.9em;
+    }
+
+    .h-testimonials .test p
+    {
+        font-size: 0.8em;
+    }
+
+    /*
+        ###########################################################################
+        ###########################################################################
+    */
+
+
+    /*  footer
+        ###########################################################################
+    */
+
+    .footer .buy span
+    {
+        font-size: 1.5em;
+        display: block;
+    }
+
+    .footer .buy .btn
+    {
+        margin-left: 0;
+        margin-top: 25px;
+    }
+
+    .footer .f-content .c1
+    {
+        width: 46%;
+        margin-left: 2%;
+        height: 250px;
+    }
+
+    .footer .f-content .c1b
+    {
+        width: 98%;
+        margin-left: 2%;
+    }
+
+    .footer .f-content .c1c
+    {
+        width: 98%;
+        margin-left: 2%;
+    }
+
+    /*
+        ###########################################################################
+        ###########################################################################
+    */
+
+
+    /*  ABOUT
+        ###########################################################################
+    */
+
+    .about .c1
+    {
+        width: 100%;
+    }
+
+    /*
+        ###########################################################################
+        ###########################################################################
+    */
+
+    /*  faq
+    ###########################################################################
+    */
+
+    .faq .c1
+    {
+        width: 100%;
+    }
+
+    .faq .c2
+    {
+        display: none;
+    }
+
+    /*
+        ###########################################################################
+        ###########################################################################
+    */
+
+
+    /*  login
+    ###########################################################################
+    */
+
+    .login .c1
+    {
+        width: 100%;
+    }
+
+    .login .c2
+    {
+        width: 100%;
+    }
+
+    /*
+        ###########################################################################
+        ###########################################################################
+    */
+
+
+    /*  blog
+        ###########################################################################
+    */
+
+    .blog-standard .c1
+    {
+        width: 80%;
+        margin-right: 10%;
+        margin-left: 10%;
+    }
+
+    .blog-standard .sidebar
+    {
+        display: none;
+    }
+
+    /*
+        ###########################################################################
+        ###########################################################################
+    */
+
+
+
+}
+
+@media only screen and (max-width: 750px)
+{
+    .header-01 .nav-area
+    {
+        display: none;
+    }
+
+    .header-01 .nav-area-mobile
+    {
+        display: block;
+    }
+
+    .header-01 .search-1
+    {
+        display: none;
+    }
+
+    .header-01 .c1
+    {
+        float: left;
+        width: 20%;
+        padding-top: 0;
+    }
+
+    .header-01 .c2
+    {
+        margin-top: 30px;
+    }
+
+}
+
+/* MAX 640px */
+
+@media only screen and (max-width: 640px)
+{
+
+    /*  HEADER
+        ###########################################################################
+    */
+
+
+
+    /*
+        ###########################################################################
+        ###########################################################################
+    */
+
+    /*  home
+        ###########################################################################
+    */
+
+    .carousel-caption
+    {
+        display: none;
+    }
+
+    /* ------------------- */
+
+    .h-Highlight .rb h3
+    {
+        font-size: 2em;
+    }
+
+    /* ------------------- */
+
+    .h-blog > div > h2
+    {
+        font-size: 2em;
+    }
+
+    /*
+        ###########################################################################
+        ###########################################################################
+    */
+
+
+    /*  ABOUT
+    ###########################################################################
+    */
+
+    .about .c1
+    {
+        width: 100%;
+    }
+
+    .about .c2
+    {
+        width: 50%;
+    }
+
+    /*
+        ###########################################################################
+        ###########################################################################
+    */
+
+    /*  blog
+        ###########################################################################
+    */
+
+    .blog-standard .post .post-image
+    {
+        width: 100%;
+        height: 130px;
+    }
+
+    .blog-standard .post .post-text
+    {
+        width: 100%;
+    }
+
+    /*
+        ###########################################################################
+        ###########################################################################
+    */
+
+    .col-sm-4.project-container span {
+        font-size: 30px;
+    }
+
+    .col-sm-4.project-container  h3 {
+        font-size: 18px;
+    }
+
+}
+
+/* MAX 560px */
+
+@media only screen and (max-width: 560px)
+{
+
+    /*  HOME
+        ###########################################################################
+    */
+
+
+
+    /* ------------------- */
+
+    .h-Highlight .c1
+    {
+        width: 90%;
+        margin-left: 5%;
+        margin-right: 5%;
+        padding-top: 25px;
+    }
+
+    .h-Highlight .c3
+    {
+        width: 90%;
+        margin-left: 5%;
+        margin-right: 5%;
+        padding-top: 25px;
+    }
+
+    .h-Highlight .c2
+    {
+        display: none;
+    }
+
+    /* ------------------- */
+
+    .h-testimonials .arrows
+    {
+        text-align: center;
+        padding: 25px 0 25px 0;
+    }
+
+    .h-testimonials .texts h2
+    {
+        font-size: 1.4em;
+    }
+
+    .h-testimonials .test article
+    {
+        visibility: hidden;
+    }
+
+    /*
+        ###########################################################################
+        ###########################################################################
+    */
+
+    /*  form
+        ###########################################################################
+    */
+
+    .form-1 input
+    {
+        width: 98%;
+        margin-bottom: 10px;
+    }
+
+    .form-1 .input-center
+    {
+        width: 98%;
+        margin-left: 0;
+        margin-right: 0;
+    }
+
+    /*
+        ###########################################################################
+        ###########################################################################
+    */
+
+
+    .r404 > div
+    {
+        width: 300px;
+    }
+
+    .r404 h1
+    {
+        font-size: 8em;
+    }
+
+    .r404 h2
+    {
+        font-size: 1.2em;
+    }
+
+
+    /* ------------------- */
+
+    .footer .f-content .c1d p
+    {
+        width: 300px;
+
+    }
+
+    .counter-projects {
+        padding: 40px;
+    }
+
+    .h-testimonials .col-xs-4{
+        width:100%;
+    }
+
+    .col-sm-4.project-container {
+        margin-bottom: 30px;
+    }
+
+
+}
+
+/* MAX 480px */
+
+@media only screen and (max-width: 480px)
+{
+
+    /*  HOME
+        ###########################################################################
+    */
+
+
+    /* ------------------- */
+
+    /*    .home-section-1 article
+        {
+            width: 100%;
+        }*/
+
+    .h-albums > div p
+    {
+        width: 300px;
+    }
+
+    .h-Highlight .rb p
+    {
+        width: 300px;
+    }
+
+    .h-blog > div > p
+    {
+        width: 300px;
+    }
+
+    .h-portfolio > p
+    {
+        width: 300px;
+    }
+
+    /*
+        ###########################################################################
+        ###########################################################################
+    */
+
+
+    /*  portfolio
+        ###########################################################################
+    */
+
+    /*
+    .portfolio
+    {
+        width: 302px;
+    }
+    */
+
+    .portfolio .col-2
+    {
+        width: 300px;
+    }
+
+    .portfolio .col-2 .left
+    {
+        bottom: 5%;
+        left: 8%;
+    }
+
+    .portfolio .col-2 .right
+    {
+        bottom: 5%;
+        right: 8%;
+    }
+
+    /*
+        ###########################################################################
+        ###########################################################################
+    */
+
+
+    /*  project
+        ###########################################################################
+    */
+
+    .project .c1
+    {
+        width: 96%;
+        margin-left: 2%;
+        margin-right: 2%;
+    }
+
+    /*
+        ###########################################################################
+        ###########################################################################
+    */
+
+
+    /*  footer
+        ###########################################################################
+    */
+
+    .footer .f-content .c1
+    {
+        width: 96%;
+        margin-left: 4%;
+    }
+
+    /*
+        ###########################################################################
+        ###########################################################################
+    */
+
+    .r404 p
+    {
+        width: 300px;
+    }
+
+    .footer .col-xs-6 {
+        width: 96%;
+        margin-left: 4%;
+    }
+
+}
+
+/* MAX 400px */
+
+@media only screen and (max-width: 400px)
+{
+
+    /*  footer
+        ###########################################################################
+    */
+
+    .footer .f-content .c1
+    {
+        width: 96%;
+        margin-left: 4%;
+    }
+
+    /*
+        ###########################################################################
+        ###########################################################################
+    */
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
